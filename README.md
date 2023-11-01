@@ -7,9 +7,13 @@ This project aims to comprehensively analyze Covid-19 vaccine data, specifically
 CONTRIBUTERS:
 
 1.DINESH BABU P K
+
 2.MOHAMED ARSATH T
+
 3.JEYAKMUAR N K
+
 4.YASHWANTH  J A
+
 5.PRITHIVIRAJ  S D
 
 INTRODUCTION:
